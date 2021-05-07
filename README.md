@@ -1,4 +1,4 @@
-# VGS Collect/Show SDK with Jeptack Compose
+# VGS Collect/Show SDK. Jetpack Compose Demo
 
 This examples shows how easily you can integrate VGS Collect/Show SDKs with Jetpack Compose.
 
@@ -33,7 +33,7 @@ Go to your <a href="https://dashboard.verygoodsecurity.com/" target="_blank">VGS
 
 Clone demo application repository.
 
-``git clone git@github.com:verygoodsecurity/vgs-collect-show-android-jetpack-compose-demo.git``
+``git clone git@github.com:vgs-samples/vgs-collect-show-android-jetpack-compose-demo.git``
 
 #### Step 3
 
